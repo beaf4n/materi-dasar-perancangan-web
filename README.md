@@ -12,4 +12,4 @@ Bagian CSS menjelaskan cara melakukan styling terhadap HTML yang telah dibuat, m
 ## JavaScript
 Dalam bagian JavaScript, dijelaskan penggunaan function, array, dan berbagai metode lainnya dalam bahasa pemrograman JavaScript, memberikan interaktivitas pada website.
 
-Materi ini disusun berdasarkan pembelajaran pada mata kuliah Rekayasa Sistem Komputer di [Program Studi Rekayasa Sistem Komputer](https://www.siskom.untan.ac.id) Universitas Tanjungpura. Untuk informasi lebih lanjut, kunjungi [Universitas Tanjungpura](https://untan.ac.id).
+Materi ini disusun berdasarkan materi pembelajaran yang didapat pada mata kuliah Perancangan Website pada prodi [Rekayasa Sistem Komputer](https://www.siskom.untan.ac.id) [Universitas Tanjungpura](https://untan.ac.id).
