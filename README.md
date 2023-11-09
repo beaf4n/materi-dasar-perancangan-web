@@ -1,6 +1,6 @@
 # Materi Dasar Perancangan Web
 
-**PENJELASAN**
+## PENJELASAN
 Repo ini berisi materi dasar perancangan website yang mencakup 3 elemen utama: HTML, CSS, dan JavaScript.
 
 ## HTML
