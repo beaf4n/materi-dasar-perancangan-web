@@ -1,19 +1,15 @@
-# materi-dasar-perancangan-web
+# Materi Dasar Perancangan Web
 
 **PENJELASAN**
-Pada repo ini, terdapat 3 element dalam dasar perancangan website, yang terdiri dari HTML, CSS, dan JavaScript
+Repo ini berisi materi dasar perancangan website yang mencakup 3 elemen utama: HTML, CSS, dan JavaScript.
 
+## HTML
+Pada bagian HTML, terdapat penjelasan mengenai berbagai tag, class, dan elemen lainnya dalam struktur HTML.
 
-**HTML**
-Pada bagian HTML, dijelaskan berbagai tag, class, dan lainnya didalam struktur HTML
+## CSS
+Bagian CSS menjelaskan cara melakukan styling terhadap HTML yang telah dibuat, memberikan tampilan yang estetis dan menarik.
 
+## JavaScript
+Dalam bagian JavaScript, dijelaskan penggunaan function, array, dan berbagai metode lainnya dalam bahasa pemrograman JavaScript, memberikan interaktivitas pada website.
 
-**CSS** 
-Pada bagian CSS, dijelaskan cara styling HTML yang sudah dibuat
-
-
-**JavaScript**
-Pada bagian JavaScript, dijelaskan penggunaan function, array, dan methode lainnya dalam JavaScript
-
-
-Materi ini dibuat berdasarkan pembelajaran mata kuliah pada program studi (Rekasaya Sistem Komputer)[https://www.siskom.untan.ac.id] , (Universitas Tanjungpura)[https://untan.ac.id]
+Materi ini disusun berdasarkan pembelajaran pada mata kuliah Rekayasa Sistem Komputer di [Program Studi Rekayasa Sistem Komputer](https://www.siskom.untan.ac.id) Universitas Tanjungpura. Untuk informasi lebih lanjut, kunjungi [Universitas Tanjungpura](https://untan.ac.id).
