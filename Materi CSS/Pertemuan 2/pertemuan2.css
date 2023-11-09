@@ -1,0 +1,29 @@
+* {
+    color: red;
+    font-size: 160%;
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+
+.div-1 {
+    color: green;
+    text-shadow: 2px 2px black;
+}
+
+h1 {
+    color: blue;
+    text-shadow: 2px 2px black;
+}
+
+.warna {
+    background-color: yellow;
+}
+
+.herf {
+    color: rebeccapurple;
+    text-decoration: none;
+}
+
+.herf:hover {
+    color: brown;
+}
